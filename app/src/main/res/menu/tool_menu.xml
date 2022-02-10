@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Pen"
+        android:id="@+id/path"
+        android:icon="@drawable/ic_pencile" />
+    <item android:title="Arrow"
+        android:id="@+id/arrow"
+        android:icon="@drawable/ic_baseline_north_east_24" />
+
+    <item
+        android:title="Rect"
+        android:id="@+id/rect"
+        android:icon="@drawable/ic_baseline_crop_din_24" />
+    <item
+        android:title="Circle"
+        android:id="@+id/circle"
+        android:icon="@drawable/ic_circle" />
+    <item
+        android:id="@+id/palette"
+        android:icon="@drawable/ic_palette"
+        android:title="palette" >
+<!--        <menu >-->
+<!--            <item-->
+<!--                android:icon="@color/green"-->
+<!--                android:title="Green" />-->
+<!--            <item-->
+<!--                android:icon="@color/blue"-->
+<!--                android:title="Blue" />-->
+<!--            <item-->
+<!--                android:icon="@color/red"-->
+<!--                android:title="Red" />-->
+<!--            <item-->
+<!--                android:icon="@color/black"-->
+<!--                android:title="Black" />-->
+<!--        </menu>-->
+    </item>
+
+</menu>

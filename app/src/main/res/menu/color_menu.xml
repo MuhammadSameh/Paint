@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+            <item
+                android:id="@+id/green"
+                android:icon="@drawable/round_corner"
+
+                android:title="Green" />
+            <item
+                android:id="@+id/blue"
+                android:icon="@drawable/round_corner"
+                android:iconTint="@color/blue"
+                android:title="Blue" />
+            <item
+                android:id="@+id/red"
+                android:icon="@drawable/round_corner"
+                android:iconTint="@color/red"
+                android:title="Red" />
+            <item
+                android:id="@+id/black"
+                android:icon="@drawable/round_corner"
+                android:iconTint="@color/black"
+                android:title="Black" />
+
+
+
+</menu>
